@@ -1,0 +1,56 @@
+%!TEX root = ../dokumentation.tex
+
+
+\newcommand{\deAbstractContent}{
+    % deutschen Abstract hier einfügen!
+    In diesem Handout, dass zu einem Vortrag im Fach Systemverständnis Fahrzeug des Kurses ITA23 an der DHBW Stuttgart gehört, wird der CAN-Bus und der LIN-Bus erklärt.
+    Dazu gehört ein Überblick zu den Grundlagen eines Busnetzwerks, sowie eine Erklärung des CAN- und LIN-Bus. 
+    Dafür wird auf die Vor- und Nachteile beider eingegangen, sowie deren Anwendungszweck im Automobil erklärt.
+}
+
+\newcommand{\enAbstractContent}{
+    % englischen Abstract hier einfügen!
+    \todo{english abstract....}
+}
+
+
+
+
+
+%%%%%%%% Ab hier nicht mehr anfassen! %%%%%%%%
+
+\newcommand{\deAbstract}{%
+    \renewcommand{\abstractname}{\langabstract} % Text für Überschrift
+    \begin{abstract}
+        \thispagestyle{plain}
+        \deAbstractContent
+    \end{abstract}
+}
+
+\newcommand{\enAbstract}{
+    \renewcommand{\abstractname}{\langabstract} % Text für Überschrift
+    \begin{abstract}
+        \thispagestyle{plain}
+        \enAbstractContent
+    \end{abstract}
+}
+
+\iflang{de}{
+    \deAbstract
+    \ifbothabstracts
+        \clearpage
+      %  \begin{otherlanguage}{english}
+            \enAbstract
+     %   \end{otherlanguage}
+    \fi
+}
+
+\iflang{en}{
+    \enAbstract
+    \ifbothabstracts
+        \clearpage
+        \begin{otherlanguage}{ngerman}
+            \deAbstract
+        \end{otherlanguage}
+    \fi
+}

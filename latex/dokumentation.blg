@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dokumentation.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: dokumentation-blx.bib
+Database file #2: bibliographie.bib
+Warning--I'm ignoring BAA2011's extra "url" field
+--line 43 of file bibliographie.bib
+Warning--I'm ignoring BBV2010's extra "url" field
+--line 69 of file bibliographie.bib
+Warning--I'm ignoring BBV2010's extra "url" field
+--line 71 of file bibliographie.bib
+Warning--I didn't find a database entry for "S.82"
+Warning--I didn't find a database entry for "S.85"
+Warning--I didn't find a database entry for "S.87"
+Warning--I didn't find a database entry for "S.88"
+Warning--I didn't find a database entry for "S.78"
+Warning--I didn't find a database entry for "S.80"
+Warning--I didn't find a database entry for "S.92"
+Warning--I didn't find a database entry for "S.94"
+Warning--I didn't find a database entry for "S.95"
+Warning--I didn't find a database entry for "S.96"
+Warning--I didn't find a database entry for "S.97"
+Warning--I didn't find a database entry for "S.98"
+Warning--I didn't find a database entry for "S.102"
+Warning--I didn't find a database entry for "S.111"
+Warning--I didn't find a database entry for "S.107"
+Warning--I didn't find a database entry for "S.108"
+Biblatex version: 3.19
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 5 entries,
+            6399 wiz_defined-function locations,
+            1276 strings with 10111 characters,
+and the built_in function-call counts, 24309 in all, are:
+= -- 1666
+> -- 541
+< -- 254
++ -- 539
+- -- 142
+* -- 1385
+:= -- 2212
+add.period$ -- 0
+call.type$ -- 5
+change.case$ -- 177
+chr.to.int$ -- 44
+cite$ -- 8
+duplicate$ -- 2597
+empty$ -- 2195
+format.name$ -- 218
+if$ -- 5320
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 0
+newline$ -- 144
+num.names$ -- 331
+pop$ -- 1381
+preamble$ -- 1
+purify$ -- 185
+quote$ -- 0
+skip$ -- 1117
+stack$ -- 0
+substring$ -- 2353
+swap$ -- 719
+text.length$ -- 144
+text.prefix$ -- 8
+top$ -- 1
+type$ -- 158
+warning$ -- 0
+while$ -- 306
+width$ -- 0
+write$ -- 140
+(There were 19 warnings)

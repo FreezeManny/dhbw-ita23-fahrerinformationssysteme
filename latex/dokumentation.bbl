@@ -1,0 +1,144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{EIFZ2023}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BK}{%
+         family={Borgeest},
+         familyi={B\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Vieweg}%
+    }
+    \strng{namehash}{BK1}
+    \strng{fullhash}{BK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Bor23}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{edition}{5. Auflage}
+    \field{isbn}{9783658414832}
+    \field{series}{ATZ/MTZ-Fachbuch}
+    \field{title}{Elektronik in der Fahrzeugtechnik : Hardware, Software, Systeme und Projektmanagement}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-658-41483-2
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \field{year}{2023}
+  \endentry
+
+  \entry{KIA2022}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RM}{%
+         family={Rausch},
+         familyi={R\bibinitperiod},
+         given={Mathias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Hanser}%
+    }
+    \strng{namehash}{RM1}
+    \strng{fullhash}{RM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Rau22}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{isbn}{9783446474574}
+    \field{series}{Hanser eLibrary}
+    \field{title}{Kommunikationssysteme im Automobil : LIN, CAN, CAN FD, CAN XL, FlexRay, Automotive Ethernet}
+    \list{location}{1}{%
+      {München}%
+    }
+    \field{year}{2022}
+  \endentry
+
+  \entry{BBV2010}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RK}{%
+         family={Reif},
+         familyi={R\bibinitperiod},
+         given={Konrad},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vieweg+Teubner Verlag / GWV Fachverlage GmbH, Wiesbaden}%
+    }
+    \strng{namehash}{RK1}
+    \strng{fullhash}{RK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Rei10}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{isbn}{9783834897138}
+    \field{note}{Description based upon print version of record}
+    \field{series}{SpringerLink Bücher}
+    \field{title}{Batterien, Bordnetze und Vernetzung}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-8348-9713-8
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \field{year}{2010}
+  \endentry
+
+  \entry{BAA2011}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RK}{%
+         family={Reif},
+         familyi={R\bibinitperiod},
+         given={Konrad},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vieweg+Teubner}%
+    }
+    \strng{namehash}{RK1}
+    \strng{fullhash}{RK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Rei11}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{edition}{6., überarbeitete und erweiterte Auflage}
+    \field{isbn}{9783834899026}
+    \field{series}{SpringerLink Bücher}
+    \field{title}{Bosch Autoelektrik und Autoelektronik : Bordnetze, Sensoren und elektronische Systeme}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-8348-9902-6
+    \endverb
+    \list{location}{1}{%
+      {Wiesbaden}%
+    }
+    \field{year}{2011}
+  \endentry
+\enddatalist
+\endinput
