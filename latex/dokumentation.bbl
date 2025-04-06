@@ -17,128 +17,77 @@
 \endgroup
 
 \datalist[entry]{anyt/global//global/global}
-  \entry{EIFZ2023}{book}{}
-    \name{author}{1}{}{%
-      {{hash=BK}{%
-         family={Borgeest},
-         familyi={B\bibinitperiod},
-         given={Kai},
-         giveni={K\bibinitperiod},
+  \entry{Donner2020}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=DA}{%
+         family={Donner},
+         familyi={D\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luber},
+         familyi={L\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {Springer Vieweg}%
+    \list{language}{1}{%
+      {de}%
     }
-    \strng{namehash}{BK1}
-    \strng{fullhash}{BK1}
+    \strng{namehash}{DALS1}
+    \strng{fullhash}{DALS1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelalpha}{Bor23}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \field{edition}{5. Auflage}
-    \field{isbn}{9783658414832}
-    \field{series}{ATZ/MTZ-Fachbuch}
-    \field{title}{Elektronik in der Fahrzeugtechnik : Hardware, Software, Systeme und Projektmanagement}
-    \verb{url}
-    \verb https://doi.org/10.1007/978-3-658-41483-2
-    \endverb
-    \list{location}{1}{%
-      {Wiesbaden}%
+    \field{labelalpha}{DL20}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    802.3ch ist ein noch nicht finalisierter Standard zur Ethernet-Datenübertragung mit Geschwindigkeiten von 2,5, 5 und 10 Gbit/s über einpaarige Twisted-Pair-Kabel. Die maximale Länge einer Verbindung beträgt bis zu 15 Meter. Gegenüber LAN-Kabeln mit vier Doppeladern sind MultiGigBase-T1-Kabel leichter, dünner, günstiger und aufgrund kleinerer möglicher Biegeradien einfacher zu verlegen.%
     }
-    \field{year}{2023}
+    \field{title}{Was ist 802.3ch ({Multi}-{Gig} {Automotive} {Ethernet})?}
+    \verb{url}
+    \verb https://www.ip-insider.de/was-ist-8023ch-multi-gig-automotive-etherne
+    \verb t-a-890606/
+    \endverb
+    \verb{file}
+    \verb :Donner2020 - Was Ist 802.3ch (Multi Gig Automotive Ethernet)_.pdf:PD
+    \verb F
+    \endverb
+    \field{journaltitle}{IP-Insider}
+    \field{month}{01}
+    \field{year}{2020}
+    \field{urlday}{01}
+    \field{urlmonth}{04}
+    \field{urlyear}{2025}
   \endentry
 
-  \entry{KIA2022}{book}{}
+  \entry{Gugenhan}{misc}{}
     \name{author}{1}{}{%
-      {{hash=RM}{%
-         family={Rausch},
-         familyi={R\bibinitperiod},
-         given={Mathias},
-         giveni={M\bibinitperiod},
+      {{hash=GS}{%
+         family={Gugenhan},
+         familyi={G\bibinitperiod},
+         given={Steffen},
+         giveni={S\bibinitperiod},
       }}%
     }
-    \list{publisher}{1}{%
-      {Hanser}%
-    }
-    \strng{namehash}{RM1}
-    \strng{fullhash}{RM1}
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelalpha}{Rau22}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{isbn}{9783446474574}
-    \field{series}{Hanser eLibrary}
-    \field{title}{Kommunikationssysteme im Automobil : LIN, CAN, CAN FD, CAN XL, FlexRay, Automotive Ethernet}
-    \list{location}{1}{%
-      {München}%
-    }
-    \field{year}{2022}
-  \endentry
-
-  \entry{BBV2010}{book}{}
-    \name{author}{1}{}{%
-      {{hash=RK}{%
-         family={Reif},
-         familyi={R\bibinitperiod},
-         given={Konrad},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Vieweg+Teubner Verlag / GWV Fachverlage GmbH, Wiesbaden}%
-    }
-    \strng{namehash}{RK1}
-    \strng{fullhash}{RK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Rei10}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{isbn}{9783834897138}
-    \field{note}{Description based upon print version of record}
-    \field{series}{SpringerLink Bücher}
-    \field{title}{Batterien, Bordnetze und Vernetzung}
+    \field{labelalpha}{Gug}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Automotive Ethernet}
     \verb{url}
-    \verb https://doi.org/10.1007/978-3-8348-9713-8
+    \verb https://www.star-cooperation.com/de/assets/uploads/dateien/media-cent
+    \verb er/veroeffentlichungen/whitepaper-automotive-ethernet.pdf
     \endverb
-    \list{location}{1}{%
-      {Wiesbaden}%
-    }
-    \field{year}{2010}
-  \endentry
-
-  \entry{BAA2011}{book}{}
-    \name{author}{1}{}{%
-      {{hash=RK}{%
-         family={Reif},
-         familyi={R\bibinitperiod},
-         given={Konrad},
-         giveni={K\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {Vieweg+Teubner}%
-    }
-    \strng{namehash}{RK1}
-    \strng{fullhash}{RK1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Rei11}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{edition}{6., überarbeitete und erweiterte Auflage}
-    \field{isbn}{9783834899026}
-    \field{series}{SpringerLink Bücher}
-    \field{title}{Bosch Autoelektrik und Autoelektronik : Bordnetze, Sensoren und elektronische Systeme}
-    \verb{url}
-    \verb https://doi.org/10.1007/978-3-8348-9902-6
+    \verb{file}
+    \verb :Gugenhan - Automotive Ethernet.pdf:PDF:https\://www.star-cooperation
+    \verb .com/de/assets/uploads/dateien/media-center/veroeffentlichungen/white
+    \verb paper-automotive-ethernet.pdf
     \endverb
-    \list{location}{1}{%
-      {Wiesbaden}%
-    }
-    \field{year}{2011}
   \endentry
 \enddatalist
 \endinput
