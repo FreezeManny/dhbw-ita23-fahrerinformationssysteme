@@ -1,2 +1,0 @@
-Glossary.tex -> Erklärungsverzeichnis
-sortedAcronyms.tex -> Abkürzungsverzeichnis

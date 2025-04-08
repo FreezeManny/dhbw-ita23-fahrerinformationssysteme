@@ -1,9 +1,0 @@
-Prinzipiell kann für den CAN-Bus jedes beliebige Übertragungsmedium verwendet werden, auf dem es möglich ist, dominante und rezessive Zustände zu übertragen.
-Meist wird eine verdrillte Zweidrahtleitung verwendet, die galvanisch gekoppelt ist. Diese ist kostengünstig und nicht so schwer wie eine stark isolierte Leitung.
-Dadurch, dass die Magnetfelder der zwei Leitungen gegenläufig sind, gleichen sich die Störimpulse der Leitungen aus.
-Es wird auf die zwei Leitungen, CAN_L (CAN-Low Leitung) und CAN_H (CAN-High Leitung) eine symmetrische und differenzierte Datenübertragung durchgeführt.
-Dabei werden die Bits unter der Verwendung von unterschiedlichen Spannungen auf die Leitungen übertragen.
-Dadurch reduziert sich die Empfindlichkeit gegenüber Gleichtaktstörungen (Störungen auf beiden Leitungen), da sich diese rechnerisch ausfiltern lassen.
-Dies ist allerdings nur der Fall, wenn sich die Störung auf beide Leitungen gleich auswirkt.
-Ist dies nicht der Fall, hat das System ein Differenzproblem.
-Außerdem kann man das eigene Abstrahlverhalten bei hohen Baudraten durch zusätzliche Schirmung der Leitung erreichen.
